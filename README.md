@@ -1,3 +1,25 @@
+#### 🏢 Internship Details
+
+- **COMPANY**: CODTECH IT SOLUTIONS PVT. LTD  
+- **NAME**: RAGHAV PARASHAR  
+- **INTERN ID**: CT04DN144  
+- **DOMAIN**: JAVA PROGRAMMING  
+- **DURATION**: 4 WEEKS (FROM JUNE 10TH, 2025 TO JULY 10TH, 2025)  
+- **MENTOR**: NEELA SANTOSH  
+
+🛠️ This project was developed as part of my internship task.
+
+### 📌 Instructions (Task 4: Recommendation System using Apache Mahout)
+
+- Implement a Java-based recommendation system using Apache Mahout
+- Load a dataset from a CSV file (userID, itemID, rating)
+- Use collaborative filtering (User-Based Recommender)
+- Use Mahout's built-in classes: `FileDataModel`, `UserSimilarity`, `UserNeighborhood`, `Recommender`
+- Suggest top-N items that the user has not rated yet
+- Accept user input (user ID) via console
+
+---
+
 # Task 4 - Java Recommendation System using Apache Mahout
 
 ## 🤖 Description
